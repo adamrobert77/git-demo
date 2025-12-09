@@ -4,3 +4,5 @@ asd asd asd
 teszt02 - pull request
 
 teszt03 - git gui
+
+teszt03 - revert
