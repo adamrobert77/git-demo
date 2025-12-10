@@ -9,3 +9,4 @@ teszt03 - revert
 
 teszt04 - feature branch-ben készült
 
+teszt04 - feature branch-ben készült, második commit
