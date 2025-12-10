@@ -7,4 +7,12 @@ teszt03 - git gui
 
 teszt03 - revert
 
+<<<<<<< HEAD
 teszt06 - main upgrade - merge teszt
+=======
+teszt04 - feature branch-ben készült
+
+teszt04 - feature branch-ben készült, második commit
+
+teszt07 - feature branch-ben készül valami harmadik commit
+>>>>>>> feature
