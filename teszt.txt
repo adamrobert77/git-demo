@@ -15,3 +15,4 @@ teszt06 - main upgrade - merge teszt
 
 teszt07 - feature branch-ben készül valami harmadik commit
 
+teszt08 - merge conflict teszt
